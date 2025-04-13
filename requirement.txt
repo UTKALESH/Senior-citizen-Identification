@@ -1,0 +1,6 @@
+
+- **Python 3.x**
+- **OpenCV** (for face detection and video processing)
+- **TensorFlow/Keras** (for age and gender prediction model)
+- **NumPy** (for data handling)
+- **CSV** (for logging detections)
